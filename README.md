@@ -1,22 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Zeyu Zhang(张泽宇, also called Alan Cheung)
 
-<!--
-**Alchuang22-dev/Alchuang22-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Who am I**: I'm currently an undergraduate student (from 2022 Fall) in School of Software, Tsinghua University.
+- 🌱 **I’m currently learning**: Software engineering, as well as deep learning.
+- 💬 **Ask me about**: Software engineering, especially on frontend and user interaction.
+- 📫 **How to reach me**: Tsinghua University email zhangzey22@mails.tsinghua.edu.cn or gmail alanchuang671@gmail.com.
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I am very interested in comparative historiography and have been researching it accordingly.  Besides, my hobbies include video editing & post-production, graphic design, also calligraphy & cartoon.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchuang22-dev&&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchuang22-dev&layout=compact)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alchuang22-dev)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alchuang22-dev" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alchuang22-dev&layout=compact&langs_count=8&card_width=320" />
+</a>
