@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchuang22-dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchuang22-dev)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alchuang22-dev)
