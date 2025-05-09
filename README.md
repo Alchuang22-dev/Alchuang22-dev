@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Zeyu Zhang(张泽宇, also called Alan Cheung)
 
 - 🔭 **Who am I**: I'm currently an undergraduate student (from 2022 Fall) in School of Software, Tsinghua University.
-- 🌱 **I’m currently learning**: Software engineering, as well as deep learning.
+- 🌱 **I’m currently learning**: Time-series model & IoTDB, as well as deep learning. 
 - 💬 **Ask me about**: Software engineering, especially on frontend and user interaction.
-- 📫 **How to reach me**: Tsinghua University email zhangzey22@mails.tsinghua.edu.cn or gmail alanchuang671@gmail.com.
+- 📫 **How to reach me**: Please send email to Tsinghua University email zhangzey22@mails.tsinghua.edu.cn or gmail alanchuang671@gmail.com.
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I am very interested in comparative historiography and have been researching it accordingly.  Besides, my hobbies include video editing & post-production, graphic design, also calligraphy & cartoon.
 
