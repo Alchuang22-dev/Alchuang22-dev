@@ -1,11 +1,15 @@
 ## Hi there 👋, I'm Zeyu Zhang(张泽宇, also called Alan Cheung)
 
 - 🔭 **Who am I**: I'm currently an undergraduate student (from 2022 Fall) in School of Software, Tsinghua University.
-- 🌱 **I’m currently learning**: Time-series model & IoTDB, as well as deep learning. 
-- 💬 **Ask me about**: Software engineering, especially on frontend and user interaction.
-- 📫 **How to reach me**: Please send email to Tsinghua University email zhangzey22@mails.tsinghua.edu.cn or gmail alanchuang671@gmail.com.
+- 🌱 **I'm currently learning**: Deep learning, especially on time series.
+- 🛠 **I'm currently working on**: IoTDB, Agent System, and some other projects. 
+- 💬 **Ask me about**: Software engineering, especially AI application.
+- 📫 **How to reach me**: Please send email to zhangzey22@mails.tsinghua.edu.cn or alanchuang671@gmail.com.
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I am very interested in comparative historiography and have been researching it accordingly.  Besides, my hobbies include video editing & post-production, graphic design, also calligraphy & cartoon.
+- ⚡ **Fun fact**: 
+  - 📖 Comparative Historiography: Recent studying on Caucasus history
+  - 🎞 Visual Art: Video editing, graphic design, calligraphy and cartoon
+  - 🔫 Game: Wrote several modes and modifiers, always finally collapsed 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alchuang22-dev" />
