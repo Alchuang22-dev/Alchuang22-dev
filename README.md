@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Zeyu Zhang(张泽宇, also called Alan Cheung)
+## Hi there 👋, I'm Zeyu Zhang
 
 - 🔭 **Who am I**: I'm currently an undergraduate student (from 2022 Fall) in School of Software, Tsinghua University.
 - 🌱 **I'm currently learning**: Deep learning, especially on time series.
