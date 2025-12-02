@@ -6,8 +6,8 @@
 - 💬 **Ask me about**: Software engineering, especially AI application.
 - 📫 **How to reach me**: Please send email to zhangzey22@mails.tsinghua.edu.cn or alanchuang671@gmail.com.
 - 😄 **Pronouns**: He/Him
-- - ⚡ **Fun fact**: 
-  - 📖 Literature: Working on some pieces
+- ⚡ **Fun fact**: 
+  - 📖 Literature: Working on some pieces, including a novel
   - 🎞 Visual Art: Video editing, graphic design, calligraphy and cartoon
   - 🔫 Game: Wrote several modes and modifiers, always finally collapsed 
 
