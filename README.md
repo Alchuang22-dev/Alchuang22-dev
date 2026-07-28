@@ -14,9 +14,7 @@
   - 🎞 Visual Art: Video editing, graphic design, calligraphy and cartoon
   - 🔫 Game: Wrote several modes and modifiers, always finally collapsed 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alchuang22-dev" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alchuang22-dev&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p>
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=Alchuang22-dev&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=Alchuang22-dev&layout=compact&langs_count=8&hide_border=true" />
+</p>
