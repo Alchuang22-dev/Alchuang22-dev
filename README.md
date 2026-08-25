@@ -7,7 +7,9 @@
 - 🛠 **I'm currently working on**: Database, Time Series Model, and Agent System.
 - 🛠 **I'm learning to working on**: AI Infra, especially on training infra.
 - 💬 **Ask me about**: Software engineering, probably vibe coding (?)
-- 📫 **How to reach me**: Please send email to zhangzey22@mails.tsinghua.edu.cn(blocked) or alanchuang671@gmail.com.
+- 📫 **How to reach me**:
+  - email: please send email to zhangzey22@mails.tsinghua.edu.cn or alanchuang671@gmail.com.
+  - social media: AlanCheung671(X) or zhangzey2023(wechat)
 - 😄 **Pronouns**: He/Him, or whatever you prefer.
 - ⚡ **Fun fact**: 
   - 📖 Literature: Working on some pieces, including a novel
