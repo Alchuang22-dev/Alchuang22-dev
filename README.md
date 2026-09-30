@@ -4,7 +4,7 @@
   - Bachelor (2022-2026) School of Software, Tsinghua University
   - Master (2026-2028) School of Software, Tsinghua University
 - 🌱 **I'm currently learning**: Deep learning, and some other fields.
-- 🛠 **I'm currently working on**: Database, Time Series Model, and Agent System.
+- 🛠 **I'm currently working on**: Data Model Traing pipeline: Database -> Model -> Agent System.
 - 🛠 **I'm learning to working on**: AI Infra, especially on training infra.
 - 💬 **Ask me about**: Software engineering, probably vibe coding (?)
 - 📫 **How to reach me**:
