@@ -4,8 +4,11 @@
   - Bachelor (2022-2026) School of Software, Tsinghua University
   - Master (2026-2028) School of Software, Tsinghua University
 - 🌱 **I'm currently learning**: Deep learning, and some other fields.
-- 🛠 **I'm currently working on**: Data Model Traing pipeline: Database -> Model -> Agent System.
-- 🛠 **I'm learning to working on**: AI Infra, especially on training infra.
+- 🛠 **I'm currently working on**:
+  - Data Model Traing pipeline, containing data curriculum, multi-axis attention and RL
+  - Training-oriented file system & query engine for formats of scientific data file
+  - Agent system and auto-research
+- 🛠 **I'm learning to working on**: More knowledge about AI Infra.
 - 💬 **Ask me about**: Software engineering, probably vibe coding (?)
 - 📫 **How to reach me**:
   - email: please send email to zhangzey22@mails.tsinghua.edu.cn or alanchuang671@gmail.com.
