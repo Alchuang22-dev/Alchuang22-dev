@@ -4,7 +4,7 @@
   - Bachelor (2022-2026) School of Software, Tsinghua University
   - Master (2026-2028) School of Software, Tsinghua University
 - 🛠 **I'm currently working on**:
-  - Data Model Traing pipeline, containing data curriculum, multi-axis attention and RL
+  - Data model training pipeline, containing data curriculum, multi-axis attention and RL
   - Training-oriented file system & query engine for formats of scientific data file
   - Agent system and auto-research
 - 🌱 **I'm learning to working on**: More knowledge about AI Infra.
